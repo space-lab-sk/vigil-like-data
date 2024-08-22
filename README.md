@@ -16,3 +16,5 @@ The notebook [extract-data.ipynb](extract-data.ipynb) demonstrates use cases for
     
 To obtain data, we take advantage of [hapiclient](https://pypi.org/project/hapiclient/) and [hvpy](https://pypi.org/project/hvpy/). Hapiclient is used to obtain in-situ measurements and timestamps for extisting image data. Hvpy library is used to collect SOHO/LASCO and SOHO/MDI images. Different approach is required for SOHO/EIT 195 images. We utilize [Virtual Solar Observatory](https://sdac.virtualsolar.org/cgi/search) to search for relevant links to .fits files. Then script processes the links to obtain fits files and creates .png images. We observe that this solution provides higher quality for EIT 195 images compared to hvpy solution.   
 
+The notebook [dashboard.ipynb](dashboard.ipynb) demonstrates the creation of a dashboard that visualizes extreme space weather events using data from the SOHO/EIT 195, SOHO/MDI, SOHO/LASCO C2, SOHO/CELIAS, and WIND/MFI instruments.  
+
