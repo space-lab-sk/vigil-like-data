@@ -1,6 +1,6 @@
 # vigil-like-data
 ---
-This is a repository that contains supplemental code for the paper: Extreme Space Weather Events of the Past 30 Years: Analysis and Implications for Vigil’s L5 Observations
+This is a repository that contains supplemental code for the paper: [Extreme Space Weather Events of the Past 30 Years: Preparation for Data From Mission Vigil](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024EA003937).
 
 ### Data Extraction
 
