@@ -18,3 +18,21 @@ To obtain data, we take advantage of [hapiclient](https://pypi.org/project/hapic
 
 The notebook [dashboard.ipynb](dashboard.ipynb) demonstrates the creation of a dashboard that visualizes extreme space weather events using data from the SOHO/EIT 195, SOHO/MDI, SOHO/LASCO C2, SOHO/CELIAS, and WIND/MFI instruments.  
 
+### Citation
+
+Majirský, A., Mackovjak, Š., Kostárová, S., & Amrich, S. (2025). Extreme space weather events of the past 30 years: Preparation for data from mission Vigil. Earth and Space Science, 12, e2024EA003937. https://doi.org/10.1029/2024EA003937
+
+```bibtex
+@article{https://doi.org/10.1029/2024EA003937,
+author = {Majirský, Adam and Mackovjak, Šimon and Kostárová, Silvia and Amrich, Samuel},
+title = {Extreme Space Weather Events of the Past 30 Years: Preparation for Data From Mission Vigil},
+journal = {Earth and Space Science},
+volume = {12},
+number = {2},
+pages = {e2024EA003937},
+keywords = {Vigil, space weather, extreme events, data set},
+doi = {https://doi.org/10.1029/2024EA003937},
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2024EA003937},
+year = {2025}
+}
+```
